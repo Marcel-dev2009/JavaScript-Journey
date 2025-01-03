@@ -1,3 +1,6 @@
 [submodule "project/js-project-1"]
 	path = project/js-project-1
 	url = https://github.com/Marcel-dev2009/js-project-1
+[submodule "project/js-project-2"]
+	path = project/js-project-2
+	url = https://github.com/Marcel-dev2009/js-project-2
